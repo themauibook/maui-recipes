@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            The MAUI Book
+longtitle:        Collection of essential concepts and recipes for .NET MAUI developers
+author:           Siddharth Singh
+email:            sid.knmiet.it@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Ebook to create production ready apps using.NET MAUI
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://themauibook.github.io'
+baseurl:          '/maui-recipes-book'
 rss:              RSS
 
 toc:
